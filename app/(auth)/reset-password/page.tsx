@@ -7,7 +7,8 @@ import Link from 'next/link'
 
 export default function ResetPassword() {
   return (
-    <section className="relative">// comentario
+    <section className="relative">
+      <div className="absolute inset-0 bg-gray-800" aria-hidden="true"></div>      
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="pt-32 pb-12 md:pt-40 md:pb-20">
 
