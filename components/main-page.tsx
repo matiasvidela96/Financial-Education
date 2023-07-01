@@ -1,6 +1,5 @@
 'use client'
 import Icon from "@/components/main-section/icon";
-import Link from 'next/link'
 export default function MainPage() {
   return (
     <section>
